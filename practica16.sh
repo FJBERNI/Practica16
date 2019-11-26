@@ -52,4 +52,3 @@ else
   echo 'Debes ser root para utilizar el programa.'
 		exit 1
 fi
-
